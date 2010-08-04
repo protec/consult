@@ -13,7 +13,7 @@ http://help.github.com is an excellent resource for github, git information.
 Contact information
 -------------------
 
-    Jay Hannah                  jhannah@mutationgrid.com        402-598-7782
+    Jay Hannah                  jhannah@mutationgrid.com        402-957-1050
     Michael "Matt" Matthews     mgm@protec-usa.net
 
 
